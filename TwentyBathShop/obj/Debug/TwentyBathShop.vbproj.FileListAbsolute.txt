@@ -1,0 +1,204 @@
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\bin\Debug\TwentyBathShop.exe.config
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\bin\Debug\TwentyBathShop.exe
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\bin\Debug\TwentyBathShop.pdb
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\bin\Debug\TwentyBathShop.xml
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\bin\Debug\DevExpress.Data.v17.1.dll
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\bin\Debug\DevExpress.Data.v17.1.xml
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.vbprojResolveAssemblyReference.cache
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.Frm_Inventory.resources
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.Frm_Main.resources
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.Resources.resources
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.vbproj.GenerateResource.Cache
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.exe.licenses
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.exe
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.xml
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.pdb
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.Frm_Employee.resources
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\bin\Debug\Telerik.Reporting.dll
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\bin\Debug\Telerik.Reporting.pdb
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\bin\Debug\Telerik.Reporting.xml
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.RP_รายงานการขาย.resources
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\bin\Debug\Telerik.ReportViewer.WinForms.dll
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\bin\Debug\Telerik.ReportViewer.WinForms.pdb
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\bin\Debug\Telerik.ReportViewer.WinForms.xml
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.Frm_รายงานการขายสินค้า.resources
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.Frm_Adduser.resources
+D:\Visual Studio Project\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.Frm_Login.resources
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\bin\Debug\TwentyBathShop.exe.config
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.exe
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.xml
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.pdb
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\bin\Debug\TwentyBathShop.exe
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\bin\Debug\TwentyBathShop.pdb
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\bin\Debug\TwentyBathShop.xml
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\bin\Debug\Telerik.Reporting.dll
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\bin\Debug\Telerik.ReportViewer.WinForms.dll
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\bin\Debug\Telerik.Reporting.pdb
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\bin\Debug\Telerik.Reporting.xml
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\bin\Debug\Telerik.ReportViewer.WinForms.pdb
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\bin\Debug\Telerik.ReportViewer.WinForms.xml
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.vbprojResolveAssemblyReference.cache
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.Frm_Adduser.resources
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.Frm_Employee.resources
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.Frm_Inventory.resources
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.Frm_Login.resources
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.Frm_Main.resources
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.Resources.resources
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.Frm_รายงานการขายสินค้า.resources
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.RP_รายงานการขาย.resources
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.vbproj.GenerateResource.Cache
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.exe.licenses
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.Frm_สินค้าขายดี.resources
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.SearchInvetory.resources
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.Searchemployee.resources
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.Frm_Paidlist.resources
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.RP_สินค้าขายดี.resources
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.RP_รายรับรายจ่าย.resources
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.Frm_รายรับรายจ่าย.resources
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.RP_รายงานข้อมูลพนักงาน.resources
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.Frm_รายงานข้อมูลพนักงาน.resources
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.RP_รายงานข้อมูลสินค้า.resources
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.Frm_รายข้อมูลสินค้า.resources
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.Frm_sendReportToLine.resources
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\bin\Debug\MessagingToolkit.Barcode.dll
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.Frm_GenerateBarcode.resources
+C:\Users\Palm\Desktop\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.Report1.resources
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\bin\Debug\TwentyBathShop.exe.config
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.exe
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.xml
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.pdb
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\bin\Debug\TwentyBathShop.exe
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\bin\Debug\TwentyBathShop.pdb
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\bin\Debug\TwentyBathShop.xml
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\bin\Debug\DevExpress.Data.v17.1.dll
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\bin\Debug\Telerik.Reporting.dll
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\bin\Debug\Telerik.ReportViewer.WinForms.dll
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\bin\Debug\DevExpress.Data.v17.1.xml
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\bin\Debug\Telerik.Reporting.pdb
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\bin\Debug\Telerik.Reporting.xml
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\bin\Debug\Telerik.ReportViewer.WinForms.pdb
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\bin\Debug\Telerik.ReportViewer.WinForms.xml
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.vbprojResolveAssemblyReference.cache
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.Frm_Adduser.resources
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.Frm_Employee.resources
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.Frm_GenerateBarcode.resources
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.Frm_Inventory.resources
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.Frm_Login.resources
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.Frm_Main.resources
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.Frm_Paidlist.resources
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.Frm_sendReportToLine.resources
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.Resources.resources
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.Frm_รายข้อมูลสินค้า.resources
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.Frm_รายงานการขายสินค้า.resources
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.Frm_รายงานข้อมูลพนักงาน.resources
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.Frm_รายรับรายจ่าย.resources
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.Frm_สินค้าขายดี.resources
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.Report1.resources
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.RP_รายงานการขาย.resources
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.RP_รายงานข้อมูลพนักงาน.resources
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.RP_รายงานข้อมูลสินค้า.resources
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.RP_รายรับรายจ่าย.resources
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.RP_สินค้าขายดี.resources
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.Searchemployee.resources
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.SearchInvetory.resources
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.vbproj.GenerateResource.Cache
+D:\Program\TwentyBathShopvfinalpassed\TwentyBathShop\TwentyBathShop\obj\Debug\TwentyBathShop.exe.licenses
