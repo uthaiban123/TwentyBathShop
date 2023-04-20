@@ -29,7 +29,7 @@ Public Class Frm_sendReportToLine
             request.Method = “POST”
             request.ContentType = “application/x-www-form-urlencoded”
             request.ContentLength = data.Length
-            request.Headers.Add(“Authorization”, “Bearer uPo4w6XDKrBvK0LGURahzbqEjgHRmLxhMjERdynUKJb”)
+            request.Headers.Add(“Authorization”, “[Your Token from Line API]”)
             request.AllowWriteStreamBuffering = True
             request.KeepAlive = False
             request.Credentials = CredentialCache.DefaultCredentials
